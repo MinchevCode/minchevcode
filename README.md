@@ -13,7 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minchevcode&show_icons=true&locale=en" alt="minchevcode" /></p>
 
-<a name="root"></a><br/><br/><br/>
-[⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
 
 
