@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minchevcode&theme=onedark&column=7" alt="minchevcode" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minchevcode&theme=onedark&column=5" alt="minchevcode" />
 </p>
 
 ---
@@ -47,7 +47,6 @@
 ### 📊 Статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minchevcode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minchevcode&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
