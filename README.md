@@ -42,14 +42,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
----
-
-### 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minchevcode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
 ### 📫 Свържи се с мен:
 *   **LinkedIn:** https://www.linkedin.com/in/martin-b-minchev
 *   **Email:** martin.minchev.dev@gmail.com
