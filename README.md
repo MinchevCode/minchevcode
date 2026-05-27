@@ -4,10 +4,6 @@
   <strong>Софтуерен инженер | Преподавател по програмиране и роботика | Председател на Студентски съвет</strong>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minchevcode&theme=onedark&column=5" alt="minchevcode" />
-</p>
-
 ---
 
 ### 👨‍💻 За мен
